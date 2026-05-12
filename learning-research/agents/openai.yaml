@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning Research"
+  short_description: "CV/ML paper workflow for reading, experiments, writing, and roadmap."
+  default_prompt: "Use $learning-research to turn my current CV or ML paper project into a concrete next-step plan, reading note, or rebuttal strategy."

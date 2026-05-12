@@ -8,6 +8,8 @@ description: Improve academic paper writing quality for ML/CV/NLP-style papers w
 
 Use this skill to rewrite a research paper into a reviewer-friendly, high-clarity draft.
 Prioritize first-impression quality (figures/tables/layout), logical flow, and evidence-backed claims.
+Use this skill after the paper story, problem framing, and preliminary evidence are already reasonably clear.
+If the user still does not know the real contribution, main bottleneck, next experiment, or claim-evidence boundary, hand the task back to `$learning-research` first.
 
 ## Core Workflow
 
